@@ -1,15 +1,15 @@
-### Hello! I'm Lihua.
-
+# Hello! I'm Lihua.
 ## a backend student 
 
 ### About me
-- 😄 I love Yoga, mediation, nature; I do love the world, in a soft and peaceful way.
+- 😄 I love Yoga, mediation, nature and the world, in a soft and peaceful way.
 - 👯 help people to get rid of chronic physical problems and mantal problems.
 - 📫 Long time goal: To creat a non-profit spiritual organization to help people and the world.
-- ⚡ Short time goal: To be a good full-stack developer:
+- ⚡ Short time goal: To be a good full-stack developer.
 
-### Languages and Tools
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihua0617)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
