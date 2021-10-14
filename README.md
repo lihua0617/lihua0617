@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Lihua, I worked 10 years on experimental Physics before.
 
-<!--
-**lihua0617/lihua0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## a beginner to be a developer 
 
-Here are some ideas to get you started:
+### I love Yoga, mediation, nature; I do love the world, in a soft and peaceful way. 
+### I want to help people to get rid of chronic physical problems and mantal problems, I think it's one of the meanings of my life.
+### I want to be a good developer, because I choosed it as a job, and it will help my family.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving physical energy, stable emotion, and peaceful mind.
+- 🌱 I’m currently learning skills for backend.
+- 👯 I’m looking to collaborate on helping people, helping the world.
+- 🤔 I’m looking for good advices on a better way to help.
+- 💬 Ask me about mediation.
+- 📫 How to reach me: lihua0617.formation@gmail.com
+- 😄 Long time goal: To creat a non-profit spiritual organization to help people, help the world.
+- ⚡ Short time goal: To be a good full-stack developer:
+
+### Languages and Tools
+### 
+
+
+### sharing my dream - TED speech from my spirital supervisor
+### https://www.youtube.com/watch?v=2rETWfA3Sq8
+
+
+### Mediation for beginner 
+### https://www.youtube.com/watch?v=EwQkfoKxRvo
+### https://www.youtube.com/watch?v=Ug8OoFAFfZ0
+### https://www.youtube.com/watch?v=q5m6tMjcF8k
